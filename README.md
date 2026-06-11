@@ -1,2 +1,1 @@
-https://dr12lol.github.io/spaceB
-This project was designatd to be a school project.
+If you are reading this, this is a project made by: Michael A. Shmaievsky.
