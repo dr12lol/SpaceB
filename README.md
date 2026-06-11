@@ -1,2 +1,2 @@
-https://dr12lol.github.io/New-folder--2-
+https://dr12lol.github.io/spaceB
 This project was designatd to be a school project.
